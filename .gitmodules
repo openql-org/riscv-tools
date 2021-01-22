@@ -1,6 +1,7 @@
 [submodule "riscv-isa-sim"]
 	path = riscv-isa-sim
 	url = ../riscv-isa-sim.git
+	branch = niisato-develop
 [submodule "riscv-pk"]
 	path = riscv-pk
 	url = https://github.com/riscv/riscv-pk.git
