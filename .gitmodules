@@ -16,5 +16,5 @@
 	url = https://github.com/riscv/riscv-openocd.git
 [submodule "QuEST"]
 	path = QuEST
-	url = ../QuEST.git
+	url = https://github.com/openql-org/QuEST
 	branch = develop-openql-wip
