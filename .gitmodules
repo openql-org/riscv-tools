@@ -11,9 +11,6 @@
 [submodule "riscv-tests"]
 	path = riscv-tests
 	url = https://github.com/riscv/riscv-tests.git
-[submodule "riscv-openocd"]
-	path = riscv-openocd
-	url = https://github.com/riscv/riscv-openocd.git
 [submodule "QuEST"]
 	path = QuEST
 	url = https://github.com/openql-org/QuEST
