@@ -1,15 +1,19 @@
 [submodule "riscv-isa-sim"]
 	path = riscv-isa-sim
-	url = https://github.com/riscv/riscv-isa-sim.git
+	url = ../riscv-isa-sim.git
 [submodule "riscv-pk"]
 	path = riscv-pk
 	url = https://github.com/riscv/riscv-pk.git
 [submodule "riscv-opcodes"]
 	path = riscv-opcodes
-	url = https://github.com/riscv/riscv-opcodes.git
+	url = ../riscv-opcodes.git
 [submodule "riscv-tests"]
 	path = riscv-tests
 	url = https://github.com/riscv/riscv-tests.git
 [submodule "riscv-openocd"]
 	path = riscv-openocd
 	url = https://github.com/riscv/riscv-openocd.git
+[submodule "QuEST"]
+	path = QuEST
+	url = ../QuEST.git
+	branch = develop-openql-wip
