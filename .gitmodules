@@ -1,11 +1,11 @@
 [submodule "riscv-isa-sim"]
 	path = riscv-isa-sim
 	url = https://github.com/openql-org/riscv-isa-sim
-	branch = develop-openql
+	branch = develop-openql-wip
 [submodule "riscv-pk"]
 	path = riscv-pk
 	url = https://github.com/riscv/riscv-pk.git
 [submodule "QuEST"]
 	path = QuEST
 	url = https://github.com/openql-org/QuEST
-	branch = develop-openql
+	branch = develop-openql-wip
